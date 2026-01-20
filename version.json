@@ -1,0 +1,10 @@
+{
+  "version": "1.0.3",
+  "file_name": "ArixDLC.jar",
+  "download_url": "https://raw.githubusercontent.com/spartac109/ArixDLC/main/ArixDLC.jar",
+  "changelog": [
+    "Исправлены вылеты при загрузке мира",
+    "Оптимизирована работа с сущностями",
+    "Добавлены новые эффекты частиц"
+  ]
+}
